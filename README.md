@@ -57,7 +57,7 @@ We can also show an animation of a simulated “race” between the two tracks
 You have to decide the best way to present this information.
 Make it user-friendly and interactive. When working on the frontend, add graphs,
 interactive tables, maps, etc. Be mindful of the data you're going to persist
-in the database and the API design when working on the backend.
+in the database and the API design when working on the back-end.
 
 ### Keys to success
 
@@ -78,7 +78,7 @@ the frontend.
 
 ## HTML Templates
 
-We will provide a set of HTML pages with the front-end part of the exercice.
+We will provide a set of HTML pages with the front-end part of the exercise.
 Additionally, if you want a static server we already set it up for you as well.
 You just have to do the back-end part and replace the endpoints in the JS
 files with your own. Please read the [templates/README](templates/README.md)
